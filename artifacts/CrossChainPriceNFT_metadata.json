@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.19+commit.7dd6d404"
+		"version": "0.8.28+commit.7893614a"
 	},
 	"language": "Solidity",
 	"output": {
@@ -635,11 +635,11 @@
 			]
 		},
 		"CrossChainPriceNFT.sol": {
-			"keccak256": "0xecb104eca7640b17653cc902361d4c54090d40572f306e53aa4c8cab261f953e",
+			"keccak256": "0xdf326e51156a55a55609aeab8d4d335d3988f235175862ee5c3f1135733f9998",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e24721b1a40e6b4060208c2b718b7533924757adf6a02672bd7d81647b73fa8d",
-				"dweb:/ipfs/QmUXMAMx9JZ2d3Q6z1jbna2x4u5H1mnkx2CSdhT6F5xQy9"
+				"bzz-raw://079b5d1750b18837debdda15e574f3afe9525074350aef8a970ab1432a76c4f4",
+				"dweb:/ipfs/QmP678VZgN5Ep4Vmxcq98pJ1M39QiwMugc8J2xWgfeKp51"
 			]
 		}
 	},

@@ -84,7 +84,7 @@ contract CrossChainPriceNFT is ERC721, ERC721URIStorage {
             bytes(
                 string(
                     abi.encodePacked(
-                        '{"name": "Cross-chain Price SVG",',
+                        '{"name": "Cross-chain Price SVG Hackerhouse 2024",',
                         '"description": "SVG NFTs in different chains",',
                         '"image": "data:image/svg+xml;base64,',
                         Base64.encode(bytes(finalSVG)), '",',
